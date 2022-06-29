@@ -1,0 +1,64 @@
+body{
+    background-color: aqua;
+}
+
+img{
+    width: 100px;
+    height: 100px;
+}
+
+.header{
+    display: flex;
+    background-color: rgb(145, 107, 182);
+    margin: 10px;
+    justify-content: space-between;
+}
+
+.caja {
+    margin: 5px;
+    padding: 10px;
+    background-color: rgb(104, 69, 139);
+}
+
+.caja0 {
+    display: flex;
+}
+
+.caja1 {
+    background-color: rgb(104, 69, 139);
+    margin: 10px;
+    padding: 10px;
+}
+
+.cuerpo1 {
+    background-color: rgb(97, 97, 178);
+    height: 150px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+
+.cuerpo2 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.cajaCuerpo {
+    margin: 10px;
+    padding: 10px;
+    background-color: rgb(203, 125, 177);
+}
+
+.image {
+    text-align: center;
+    background-color: rgb(193, 116, 168);
+    text-align: center;
+}
+
+.pie {
+    background-color: rgb(187, 222, 117);
+    height: 120px;
+    margin: 15px;
+    padding: 10px;
+    text-align: center;
+}
